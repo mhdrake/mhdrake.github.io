@@ -5,7 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Teaching Fellow
+Teaching Fellow
+-------
 * CAS EC508—Econometrics (MA)
   + Spring 2022
 * CAS EC101—Introduction to Microeconomics (UG)
