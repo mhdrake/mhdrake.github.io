@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Marshall Drake"
-  avatar           : "headshot.jpg"
+  avatar           : "./images/headshot.jpg"
   bio              : "Economics PhD Candidate"
   location         : "Boston, MA"
   employer         :
