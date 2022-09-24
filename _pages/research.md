@@ -5,8 +5,11 @@ permalink: /research/
 author_profile: true
 ---
 
-Selected Works In Progress
+Works in Progress
 ------
+
+Motivated Responses to Information in Charitable Giving (<b>Job Market Paper</b>)
+    Draft coming soon.
 
 Wage Differentials and the Price of Workplace Flexibility
     with Neil Thakral and Linh T&ocirc;
@@ -18,9 +21,16 @@ This paper studies the interplay between how much workers value workplace flexib
 </details>
 <br>
 Bayesian Adaptive Choice Experiments
-    with Fernando Payr&acute;, Neil Thakral, and Linh T&ocirc;
+    with Fernando Payr&oacute;, Neil Thakral, and Linh T&ocirc;
+
+<details>
+<summary open> Abstract </summary>
 <br>
-Program Interactions and Welfare Analysis: A Bayesian Adaptive Choice Experiment
+We propose the use of dynamic choice experiments to efficiently elicit preferences, a method which we call the Bayesian Adaptive Choice Experiment (BACE). BACE improves upon existing discrete choice experiments which are widely used to elicit preferences both in hypothetical and incentivized settings. We show conditions under which BACE achieves convergence, and that BACE can significantly improve convergence rates relative to methods with randomly generated choices as well as those using optimal static designs. We address computational challenges in implementing BACE in practice by using Bayesian Monte Carlo techniques. The separation between a front-end survey interface and a back-end computational server allows the BACE package to be portable for research designs in a wide range of settings. Beyond efficiency gains, BACE addresses a bias in estimating population-level average preference parameters stemming from using combined data across individuals when individuals differ in their tendency to be inconsistent in their choices. We describe how to use BACE in applications.
+</details>
+<br>
+Social Insurance Programs ans Preferences for Redistribution: A Bayesian Adaptive Choice Experiment
     with Neil Thakral, Linh T&ocirc;, and Valeria Zurla
 <br>
-The Self-Image Value of Consequences in Social Decisions
+Prescriber History and the Effectiveness of Continuing Medical Education
+    with Alex Hoagland
