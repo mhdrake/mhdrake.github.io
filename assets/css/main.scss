@@ -43,12 +43,20 @@
 details > summary {
     padding: 2px 6px;
     width: 15em;
-    background-color: #f0ffff;
+    background-color: #ddd;
     border: none;
-    box-shadow: 3px 3px 4px #f0f8ff;
+    box-shadow: 3px 3px 4px black;
     cursor: pointer;
   }
 
-  details[open] > summary {
-    background-color: #ddd;
-  }
+details > p {
+border-radius: 0 0 10px 10px;
+background-color: #f0ffff;
+padding: 2px 6px;
+margin: 0;
+box-shadow: 3px 3px 4px #ddd;
+}
+
+details[open] > summary {
+background-color: #ddd;
+}
