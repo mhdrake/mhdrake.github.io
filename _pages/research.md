@@ -31,7 +31,7 @@ We propose the use of dynamic choice experiments to efficiently elicit preferenc
 
 ***
 
-Social Insurance Programs ans Preferences for Redistribution: A Bayesian Adaptive Choice Experiment (with Neil Thakral, Linh T&ocirc;, and Valeria Zurla)
+Social Insurance Programs and Preferences for Redistribution: A Bayesian Adaptive Choice Experiment (with Neil Thakral, Linh T&ocirc;, and Valeria Zurla)
 
 ***
 

@@ -48,3 +48,7 @@ details > summary {
     box-shadow: 3px 3px 4px black;
     cursor: pointer;
   }
+
+  details[open] > summary {
+    background-color: #ddd;
+  }
