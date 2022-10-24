@@ -20,7 +20,13 @@ This paper studies the interplay between how much workers value workplace flexib
 
 ***
 
-Motivated Responses to Information in Charitable Giving. Draft coming soon.
+Effects of Prior Support and Information on Charitable Giving
+<details>
+<summary open> Abstract </summary>
+<p>
+I study how past support for a charity affects how people acquire and respond to information about its quality. I conjecture that past giving motivates donors to process information about a charity that they have already supported more favorably, relative to non-donors. I test this hypothesis in a series of online experiments in which subjects are randomly assigned to complete a real-effort task that can generate a donation to a non-profit. Prior to allocating money between themselves and charity, subjects receive different information about the relative impact of two charities. Without new information, prior support does not influence giving across charities. However, when subjects learn which charity is more effective, those who already supported the more effective charity respond more positively to this information. This study demonstrates that prior support can influence future giving by changing how people respond to the information present in donation requests. I also examine how past support affects demand for information and beliefs about relative quality.
+</p>
+</details>
 
 ***
 
