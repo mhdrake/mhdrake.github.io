@@ -8,12 +8,9 @@ author_profile: true
 Works in Progress
 ------
 
-Motivated Responses to Information in Charitable Giving (<b>Job Market Paper</b>)
-    Draft coming soon.
-
 ***
 
-Wage Differentials and the Price of Workplace Flexibility (with Neil Thakral and Linh T&ocirc;)
+Wage Differentials and the Price of Workplace Flexibility. <b>Job Market Paper</b>. (with Neil Thakral and Linh T. T&ocirc;)
 <details>
 <summary open> Abstract </summary>
 <p>
@@ -23,7 +20,11 @@ This paper studies the interplay between how much workers value workplace flexib
 
 ***
 
-Bayesian Adaptive Choice Experiments (with Fernando Payr&oacute;, Neil Thakral, and Linh T&ocirc;)
+Motivated Responses to Information in Charitable Giving. Draft coming soon.
+
+***
+
+Bayesian Adaptive Choice Experiments (with Fernando Payr&oacute;, Neil Thakral, and Linh T. T&ocirc;)
 <details>
 <summary open> Abstract </summary>
 <p>
@@ -33,7 +34,7 @@ We propose the use of dynamic choice experiments to efficiently elicit preferenc
 
 ***
 
-Social Insurance Programs and Preferences for Redistribution: A Bayesian Adaptive Choice Experiment (with Neil Thakral, Linh T&ocirc;, and Valeria Zurla)
+Social Insurance Programs and Preferences for Redistribution: A Bayesian Adaptive Choice Experiment (with Neil Thakral, Linh T. T&ocirc;, and Valeria Zurla)
 
 ***
 
