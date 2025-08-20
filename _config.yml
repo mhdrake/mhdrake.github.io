@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Marshall Drake"
   avatar           : "headshot.jpg"
-  bio              : "Economist, U.S. Equal Employment Opportunity Commission"
-  location         : "Washington, DC"
+  bio              : "Data Scientist, Capital One | PhD Economist"
+  location         : "Washington, DC Metro"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/marshall-drake/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
